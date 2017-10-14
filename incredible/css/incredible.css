@@ -1,0 +1,47 @@
+@font-face {
+    font-family:Myriad Pro;
+    src: url();
+}
+
+.header
+{
+background-color:white;	
+height:100px;	
+}
+.logo
+{
+width:675px;
+height:100px;	
+float:left;
+}
+.logo p
+{
+margin-left:210px;
+font-family:Myriad Pro;
+font-size:29px;
+color:#a8a8a8;
+font-weight:re
+
+}
+span
+{
+color:#2da0ce;
+}
+.links
+{
+width:675px;	
+background-color:white;
+height:100px;
+float:left;
+}
+.links a
+{
+margin-left:40px;
+margin-top:30px;	
+color:#888888;	
+text-decoration:none;
+}
+.a 
+{
+ margin-top:40px;
+}
